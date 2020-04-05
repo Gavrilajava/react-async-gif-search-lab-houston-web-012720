@@ -1,0 +1,10 @@
+img {
+  display: block;
+}
+
+.searchForm {
+  display: block;
+  position: absolute;
+  right: 30px;
+  top: 80px;
+}
